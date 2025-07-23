@@ -1,4 +1,4 @@
-package Exercises;
+package Homeworks;
 import java.util.Scanner;
 
 public class BodyMassIndexCalculation {
